@@ -4,7 +4,7 @@ import os
 from discord.ext import tasks
 
 TOKEN =  # Replace with your bot's token
-GUILD_ID = '1223293787246297158'  # Replace with your server's ID
+GUILD_ID = ''  # Replace with your server's ID
 ROLE_NAME = 'Bus Replacement Alerts'  # Replace with the role name you want to alert
 
 intents = discord.Intents.default()
